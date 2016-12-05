@@ -36,7 +36,7 @@ hi Visual guibg=#4f5b66 ctermbg=240
 hi VisualNOS guifg=#ec5f67 ctermfg=203
 hi WarningMsg guifg=#ec5f67 ctermfg=203
 hi WildMenu guifg=#ffffff ctermfg=15 guibg=#6699cc ctermbg=68
-hi Title guifg=#6699cc ctermfg=68 gui=NONE cterm=NONE
+hi Title guifg=#c0c5ce ctermfg=251 gui=NONE cterm=NONE
 hi Conceal guifg=#6699cc ctermfg=68 guibg=#1b2b34 ctermbg=235
 hi Cursor guifg=#1b2b34 ctermfg=235 guibg=#c0c5ce ctermbg=251
 hi NonText guifg=#65737e ctermfg=243
@@ -68,14 +68,14 @@ hi Delimiter guifg=#ab7967 ctermfg=137
 hi Float guifg=#f99157 ctermfg=209
 hi Function guifg=#6699cc ctermfg=68
 hi Identifier guifg=#ec5f67 ctermfg=203 gui=NONE cterm=NONE
-hi Include guifg=#6699cc ctermfg=68
+hi Include guifg=#62b3b2 ctermfg=68
 hi Keyword guifg=#c594c5 ctermfg=176
 hi Label guifg=#fac863 ctermfg=221
 hi Number guifg=#f99157 ctermfg=209
 hi Operator guifg=#c0c5ce ctermfg=251 gui=NONE cterm=NONE
 hi PreProc guifg=#fac863 ctermfg=221
 hi Repeat guifg=#fac863 ctermfg=221
-hi Special guifg=#62b3b2 ctermfg=73
+hi Special guifg=#ec5f67 ctermfg=203
 hi SpecialChar guifg=#ab7967 ctermfg=137
 hi Statement guifg=#ec5f67 ctermfg=203
 hi StorageClass guifg=#fac863 ctermfg=221
@@ -119,7 +119,7 @@ hi xmlTagName guifg=#ec5f67 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi xmlEndTag guifg=#ec5f67 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlTag guifg=#62b3b2 ctermfg=73
 hi htmlTagName guifg=#ec5f67 ctermfg=203
-hi htmlEndTag guifg=#c0c5ce ctermfg=251
+hi htmlEndTag guifg=#62b3b2 ctermfg=73
 hi htmlArg guifg=#c594c5 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScript guifg=#c0c5ce ctermfg=251
 hi javaScriptNumber guifg=#f99157 ctermfg=209
