@@ -83,7 +83,7 @@ hi String guifg=#99c794 ctermfg=114
 hi Structure guifg=#c594c5 ctermfg=176
 hi Tag guifg=#fac863 ctermfg=221
 hi Todo guifg=#fac863 ctermfg=221 guibg=#343d46 ctermbg=237
-hi Type guifg=#fac863 ctermfg=221 gui=NONE cterm=NONE
+hi Type guifg=#c594c5 ctermfg=176 gui=NONE cterm=NONE
 hi Typedef guifg=#fac863 ctermfg=221
 hi SpellBad guibg=#1b2b34 ctermbg=235 gui=undercurl cterm=undercurl
 hi SpellLocal guibg=#1b2b34 ctermbg=235 gui=undercurl cterm=undercurl
