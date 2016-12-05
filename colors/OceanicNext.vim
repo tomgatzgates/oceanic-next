@@ -112,14 +112,14 @@ hi DiffLine guifg=#6699cc ctermfg=68 guibg=#1b2b34 ctermbg=235
 hi DiffRemoved guifg=#ffffff ctermfg=15 guibg=#ec5f67 ctermbg=203
 hi gitCommitOverflow guifg=#ec5f67 ctermfg=203
 hi gitCommitSummary guifg=#99c794 ctermfg=114
-hi htmlBold guifg=#fac863 ctermfg=221
+hi Bold guifg=#fac863 ctermfg=221
 hi htmlItalic guifg=#c594c5 ctermfg=176
 hi xmlTag guifg=#62b3b2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi xmlEndTag guifg=#c0c5ce ctermfg=251 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlTag guifg=#62b3b2 ctermfg=73
-hi htmlEndTag guifg=#62b3b2 ctermfg=73
+hi htmlEndTag guifg=#c0c5ce ctermfg=251
 hi htmlArg guifg=#fac863 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi htmlTagName guifg=#d8dee9 ctermfg=253
+hi htmlTagName guifg=#c0c5ce ctermfg=251
 hi javaScript guifg=#c0c5ce ctermfg=251
 hi javaScriptNumber guifg=#f99157 ctermfg=209
 hi javaScriptBraces guifg=#c0c5ce ctermfg=251
