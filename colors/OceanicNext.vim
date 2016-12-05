@@ -1,7 +1,7 @@
 " ===============================================================
 " OceanicNext
-" 
-" URL: 
+"
+" URL:
 " Author: Mike Hartington
 " License: Apache
 " Last Change: 2016/11/28 20:40
@@ -115,11 +115,12 @@ hi gitCommitSummary guifg=#99c794 ctermfg=114
 hi Bold guifg=#fac863 ctermfg=221
 hi htmlItalic guifg=#c594c5 ctermfg=176
 hi xmlTag guifg=#62b3b2 ctermfg=73 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi xmlEndTag guifg=#c0c5ce ctermfg=251 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi xmlTagName guifg=#ec5f67 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi xmlEndTag guifg=#ec5f67 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlTag guifg=#62b3b2 ctermfg=73
+hi htmlTagName guifg=#ec5f67 ctermfg=203
 hi htmlEndTag guifg=#c0c5ce ctermfg=251
-hi htmlArg guifg=#fac863 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi htmlTagName guifg=#c0c5ce ctermfg=251
+hi htmlArg guifg=#c594c5 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScript guifg=#c0c5ce ctermfg=251
 hi javaScriptNumber guifg=#f99157 ctermfg=209
 hi javaScriptBraces guifg=#c0c5ce ctermfg=251
@@ -159,7 +160,6 @@ hi GitGutterAdd guifg=#99c794 ctermfg=114 guibg=#343d46 ctermbg=237
 hi GitGutterChange guifg=#6699cc ctermfg=68 guibg=#343d46 ctermbg=237
 hi GitGutterDelete guifg=#ec5f67 ctermfg=203 guibg=#343d46 ctermbg=237
 hi GitGutterChangeDelete guifg=#c594c5 ctermfg=176 guibg=#343d46 ctermbg=237
-hi xmlTagName guifg=#c0c5ce ctermfg=251 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
 let g:terminal_color_0 = "#1b2b34"
 let g:terminal_color_1 = "#ec5f67"
