@@ -123,7 +123,7 @@ hi htmlEndTag guifg=#c0c5ce ctermfg=251
 hi htmlArg guifg=#c594c5 ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScript guifg=#c0c5ce ctermfg=251
 hi javaScriptNumber guifg=#f99157 ctermfg=209
-hi javaScriptBraces guifg=#c0c5ce ctermfg=251
+hi javaScriptBraces guifg=#62b3b2 ctermfg=73
 hi markdownCode guifg=#99c794 ctermfg=114
 hi markdownCodeBlock guifg=#99c794 ctermfg=114
 hi markdownHeadingDelimiter guifg=#6699cc ctermfg=68
